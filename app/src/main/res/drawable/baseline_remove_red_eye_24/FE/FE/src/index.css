@@ -1,0 +1,21 @@
+a div:hover {
+  background-color: #eee;
+}
+
+.sidebarMenu {
+  width: 13vw;
+}
+
+.responsiveContainer {
+  margin-left: 13vw;
+}
+
+@media only screen and (max-width: 1280px) {
+  .sidebarMenu {
+    display: none;
+  }
+
+  .responsiveContainer {
+    margin-left: 0;
+  }
+}

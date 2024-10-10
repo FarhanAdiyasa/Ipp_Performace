@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/btnNavHome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_cottage_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/btnNavPekerjaan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_sports_kabaddi_24"
+        android:title="Pekerjaan" />
+    <item
+        android:id="@+id/btnNavDetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_details_24"
+        android:title="Detail" />
+    <item
+        android:id="@+id/btnNavRekapitulasi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_document_scanner_24"
+        android:title="Rekapitulasi" />
+</menu>

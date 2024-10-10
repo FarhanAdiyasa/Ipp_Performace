@@ -1,0 +1,10 @@
+<!-- res/drawable/edit_logo_scaled.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap
+            android:src="@drawable/edit_logo"
+            android:gravity="center"
+            android:width="1dp"
+            android:height="1dp"/> <!-- Adjust the height as needed -->
+    </item>
+</layer-list>
